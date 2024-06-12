@@ -34,9 +34,9 @@ Based on this:
 
  So this repo has 4 parts in order to see differents applications/perspectives to work with the dataset.
 
- *  ==Modeling==. In this part we will try to buil a model to predict if an accident manged by local police in Barcelona has any death and/or severely injured participant.
- * ==Plotting==. In this section, there is going to be a collection of charts to better understand the dataset and therefore the accidents that happened in gthe city since 2010.
- * ==Tableau==. Building some cool dashboards and else to showcase and investigate the accidents from different perspectives.
- * ==Streamlit==. I will create an app to calculate what is the probability that any given accident will have deads and/or severely injured people.
+ * **Modeling**. In this part we will try to buil a model to predict if an accident manged by local police in Barcelona has any death and/or severely injured participant.
+ * **Plotting**. In this section, there is going to be a collection of charts to better understand the dataset and therefore the accidents that happened in gthe city since 2010.
+ * **Tableau**. Building some cool dashboards and else to showcase and investigate the accidents from different perspectives.
+ * **Streamlit**. I will create an app to calculate what is the probability that any given accident will have deads and/or severely injured people.
 
     
