@@ -2,7 +2,7 @@
 
 ---
 
-I am trying to put together everything done during the years about the accidents in Barcelona. As a reminder, this is about the accidents that took place in Barcelona, Catalonia since 2010 registered by local police.
+I am trying to put together everything done by me during the last years with the dataset about the accidents in Barcelona. As a reminder, these are the accidents that took place in Barcelona, Catalonia since 2010 registered by local police.  Every March I update the dataset with the previous year data.
 
 OBJECTIVE. Do a thorough analysis of the subject matter. It does include develop a model in ml that will predict when an accident has severely injured people or deaths, create an app via streamlit to be able to calculate probabilities of the target occurring, design a dashboard in Tableau to help us understand the dataset from different perspectives and windows of approximation.
 
