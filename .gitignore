@@ -25,6 +25,7 @@
 
 barcelona_keys.py
 modeling/data/dataframes_dict_files.pkl
+.ipynb_checkpoints
 
 # Logs and databases #
 ######################
