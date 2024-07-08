@@ -100855,7 +100855,7 @@ num_incident,accident_type
 2020S004170,frontal
 2020S004171,crash
 2020S004172,collision
-2020S004173,"{'Other_types', 'run-off_with_overturning'}"
+2020S004173,run-off
 2020S004174,collision
 2020S004175,collision
 2020S004176,collision
@@ -105462,7 +105462,7 @@ num_incident,accident_type
 2021S002510,run_over
 2021S002511,run_over
 2021S002512,frontal
-2021S002513,run-off_not_included_previously
+2021S002513,run-off
 2021S002514,collision
 2021S002515,collision
 2021S002516,collision

@@ -527,3 +527,8 @@ def random_color_generator(n):
         color = np.random.randint(0, 256, size=3)
         colors.append(tuple(color))
     return colors
+
+def fixing_seniority(string):
+    """Will replace Desconegut with null"""
+    string=string.split(',')
+    return string
