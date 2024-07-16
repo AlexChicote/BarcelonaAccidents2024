@@ -194,7 +194,7 @@ num_incident,accident_type
 2010S000193,frontal
 2010S000194,collision
 2010S000195,collision
-2010S000196,Other_types
+2010S000196,misc_type
 2010S000197,collision
 2010S000198,collision
 2010S000199,crash
@@ -734,7 +734,7 @@ num_incident,accident_type
 2010S000733,crash
 2010S000734,crash
 2010S000735,crash
-2010S000736,Other_types
+2010S000736,misc_type
 2010S000737,collision
 2010S000738,frontal
 2010S000739,crash
@@ -1178,7 +1178,7 @@ num_incident,accident_type
 2010S001177,frontal
 2010S001178,frontal
 2010S001179,crash
-2010S001180,Other_types
+2010S001180,misc_type
 2010S001181,collision
 2010S001182,collision
 2010S001183,run_over
@@ -2754,7 +2754,7 @@ num_incident,accident_type
 2010S002756,frontal
 2010S002757,frontal
 2010S002758,frontal
-2010S002759,Other_types
+2010S002759,misc_type
 2010S002760,crash
 2010S002761,frontal
 2010S002762,collision
@@ -3612,7 +3612,7 @@ num_incident,accident_type
 2010S003615,collision
 2010S003616,run_over
 2010S003617,frontal
-2010S003618,Other_types
+2010S003618,misc_type
 2010S003619,collision
 2010S003620,frontal
 2010S003621,crash
@@ -4514,7 +4514,7 @@ num_incident,accident_type
 2010S004518,fall_inside_vehicle
 2010S004519,fall--motorcycle
 2010S004520,crash
-2010S004521,Other_types
+2010S004521,misc_type
 2010S004522,frontal
 2010S004523,collision
 2010S004524,frontal
@@ -4649,7 +4649,7 @@ num_incident,accident_type
 2010S004653,frontal
 2010S004654,collision
 2010S004655,frontal
-2010S004656,Other_types
+2010S004656,misc_type
 2010S004657,run_over
 2010S004658,collision
 2010S004659,collision
@@ -6273,7 +6273,7 @@ num_incident,accident_type
 2010S006284,collision
 2010S006285,collision
 2010S006286,collision
-2010S006287,Other_types
+2010S006287,misc_type
 2010S006288,collision
 2010S006289,collision
 2010S006290,collision
@@ -7735,7 +7735,7 @@ num_incident,accident_type
 2010S007748,run_over
 2010S007749,frontal
 2010S007750,collision
-2010S007751,Other_types
+2010S007751,misc_type
 2010S007752,crash
 2010S007753,collision
 2010S007754,run_over
@@ -7748,7 +7748,7 @@ num_incident,accident_type
 2010S007761,collision
 2010S007762,frontal
 2010S007763,collision
-2010S007764,Other_types
+2010S007764,misc_type
 2010S007765,frontal
 2010S007766,run_over
 2010S007767,collision
@@ -8167,7 +8167,7 @@ num_incident,accident_type
 2010S008181,frontal
 2010S008182,frontal
 2010S008183,collision
-2010S008184,Other_types
+2010S008184,misc_type
 2010S008185,collision
 2010S008186,crash
 2010S008187,frontal
@@ -8404,7 +8404,7 @@ num_incident,accident_type
 2010S008418,fall--motorcycle
 2010S008419,run_over
 2010S008420,frontal
-2010S008421,Other_types
+2010S008421,misc_type
 2010S008422,crash
 2010S008423,frontal
 2010S008424,frontal
@@ -8479,7 +8479,7 @@ num_incident,accident_type
 2010S008493,collision
 2010S008494,crash
 2010S008495,collision
-2010S008496,Other_types
+2010S008496,misc_type
 2010S008497,fall--motorcycle
 2010S008498,frontal
 2010S008499,frontal
@@ -11093,7 +11093,7 @@ num_incident,accident_type
 2011S002048,collision
 2011S002049,crash
 2011S002050,misc_type
-2011S002051,Other_types
+2011S002051,misc_type
 2011S002052,crash
 2011S002053,collision
 2011S002054,crash
@@ -11713,7 +11713,7 @@ num_incident,accident_type
 2011S002670,run_over
 2011S002671,crash
 2011S002672,collision
-2011S002673,Other_types
+2011S002673,misc_type
 2011S002674,fall_inside_vehicle
 2011S002675,fall--motorcycle
 2011S002676,crash
@@ -12154,7 +12154,7 @@ num_incident,accident_type
 2011S003112,collision
 2011S003113,collision
 2011S003114,frontal
-2011S003115,Other_types
+2011S003115,misc_type
 2011S003116,collision
 2011S003117,collision
 2011S003118,collision
@@ -13179,7 +13179,7 @@ num_incident,accident_type
 2011S004139,run_over
 2011S004140,frontal
 2011S004141,collision
-2011S004142,Other_types
+2011S004142,misc_type
 2011S004143,collision
 2011S004144,collision
 2011S004145,collision
@@ -13753,7 +13753,7 @@ num_incident,accident_type
 2011S004713,collision
 2011S004714,collision
 2011S004715,collision
-2011S004716,Other_types
+2011S004716,misc_type
 2011S004717,frontal
 2011S004718,collision
 2011S004719,collision
@@ -13916,7 +13916,7 @@ num_incident,accident_type
 2011S004877,run_over
 2011S004878,crash
 2011S004879,collision
-2011S004880,Other_types
+2011S004880,misc_type
 2011S004881,frontal
 2011S004882,run_over
 2011S004883,crash
@@ -15308,7 +15308,7 @@ num_incident,accident_type
 2011S006272,run_over
 2011S006273,crash
 2011S006274,run_over
-2011S006275,Other_types
+2011S006275,misc_type
 2011S006276,collision
 2011S006277,run_over
 2011S006278,run_over
@@ -15410,7 +15410,7 @@ num_incident,accident_type
 2011S006374,frontal
 2011S006375,collision
 2011S006376,collision
-2011S006377,Other_types
+2011S006377,misc_type
 2011S006378,collision
 2011S006379,crash
 2011S006380,fall--motorcycle
@@ -15456,7 +15456,7 @@ num_incident,accident_type
 2011S006420,frontal
 2011S006421,fall--motorcycle
 2011S006422,collision
-2011S006423,Other_types
+2011S006423,misc_type
 2011S006424,collision
 2011S006425,collision
 2011S006426,frontal
@@ -16445,7 +16445,7 @@ num_incident,accident_type
 2011S007411,frontal
 2011S007412,collision
 2011S007413,collision
-2011S007414,Other_types
+2011S007414,misc_type
 2011S007415,collision
 2011S007416,collision
 2011S007417,crash
@@ -16480,7 +16480,7 @@ num_incident,accident_type
 2011S007446,collision
 2011S007447,frontal
 2011S007448,collision
-2011S007449,Other_types
+2011S007449,misc_type
 2011S007450,collision
 2011S007451,collision
 2011S007452,collision
@@ -16965,7 +16965,7 @@ num_incident,accident_type
 2011S007931,fall--motorcycle
 2011S007932,run_over
 2011S007933,collision
-2011S007934,Other_types
+2011S007934,misc_type
 2011S007935,frontal
 2011S007936,crash
 2011S007937,collision
@@ -17317,7 +17317,7 @@ num_incident,accident_type
 2011S008285,frontal
 2011S008286,run_over
 2011S008287,collision
-2011S008288,Other_types
+2011S008288,misc_type
 2011S008289,frontal
 2011S008290,collision
 2011S008291,run_over
@@ -17363,7 +17363,7 @@ num_incident,accident_type
 2011S008331,collision
 2011S008332,frontal
 2011S008333,frontal
-2011S008334,Other_types
+2011S008334,misc_type
 2011S008335,run_over
 2011S008336,run_over
 2011S008337,frontal
@@ -18651,7 +18651,7 @@ num_incident,accident_type
 2012S000768,crash
 2012S000769,collision
 2012S000770,collision
-2012S000771,Other_types
+2012S000771,misc_type
 2012S000772,crash
 2012S000773,collision
 2012S000774,crash
@@ -18800,7 +18800,7 @@ num_incident,accident_type
 2012S000917,run_over
 2012S000918,collision
 2012S000919,collision
-2012S000920,Other_types
+2012S000920,misc_type
 2012S000921,frontal
 2012S000922,fall_inside_vehicle
 2012S000923,run_over
@@ -19314,7 +19314,7 @@ num_incident,accident_type
 2012S001431,run_over
 2012S001432,crash
 2012S001433,collision
-2012S001434,Other_types
+2012S001434,misc_type
 2012S001435,collision
 2012S001436,collision
 2012S001437,run_over
@@ -20437,7 +20437,7 @@ num_incident,accident_type
 2012S002556,collision
 2012S002557,collision
 2012S002558,collision
-2012S002559,Other_types
+2012S002559,misc_type
 2012S002560,collision
 2012S002561,frontal
 2012S002562,collision
@@ -21438,7 +21438,7 @@ num_incident,accident_type
 2012S003560,frontal
 2012S003561,frontal
 2012S003562,collision
-2012S003563,Other_types
+2012S003563,misc_type
 2012S003564,fall--motorcycle
 2012S003565,collision
 2012S003566,collision
@@ -22418,7 +22418,7 @@ num_incident,accident_type
 2012S004541,frontal
 2012S004542,frontal
 2012S004543,fall--motorcycle
-2012S004544,Other_types
+2012S004544,misc_type
 2012S004545,fall--motorcycle
 2012S004546,collision
 2012S004547,collision
@@ -22600,7 +22600,7 @@ num_incident,accident_type
 2012S004723,collision
 2012S004724,run_over
 2012S004725,collision
-2012S004726,Other_types
+2012S004726,misc_type
 2012S004727,collision
 2012S004728,collision
 2012S004729,collision
@@ -23075,7 +23075,7 @@ num_incident,accident_type
 2012S005199,collision
 2012S005200,frontal
 2012S005201,collision
-2012S005202,Other_types
+2012S005202,misc_type
 2012S005203,frontal
 2012S005204,misc_type
 2012S005205,crash
@@ -23171,7 +23171,7 @@ num_incident,accident_type
 2012S005295,frontal
 2012S005296,collision
 2012S005297,collision
-2012S005298,Other_types
+2012S005298,misc_type
 2012S005299,collision
 2012S005300,collision
 2012S005301,collision
@@ -23892,7 +23892,7 @@ num_incident,accident_type
 2012S006018,collision
 2012S006019,fall--motorcycle
 2012S006020,collision
-2012S006021,Other_types
+2012S006021,misc_type
 2012S006022,collision
 2012S006023,frontal
 2012S006024,frontal
@@ -24024,7 +24024,7 @@ num_incident,accident_type
 2012S006150,crash
 2012S006151,collision
 2012S006152,collision
-2012S006153,Other_types
+2012S006153,misc_type
 2012S006154,run_over
 2012S006155,frontal
 2012S006156,crash
@@ -24671,7 +24671,7 @@ num_incident,accident_type
 2012S006797,collision
 2012S006798,collision
 2012S006799,crash
-2012S006800,Other_types
+2012S006800,misc_type
 2012S006801,fall--motorcycle
 2012S006802,collision
 2012S006803,fall--motorcycle
@@ -25834,7 +25834,7 @@ num_incident,accident_type
 2012S007963,fall--motorcycle
 2012S007964,fall--motorcycle
 2012S007965,frontal
-2012S007966,Other_types
+2012S007966,misc_type
 2012S007967,frontal
 2012S007968,frontal
 2012S007969,frontal
@@ -26169,7 +26169,7 @@ num_incident,accident_type
 2012S008298,collision
 2012S008299,collision
 2012S008300,frontal
-2012S008301,Other_types
+2012S008301,misc_type
 2012S008302,collision
 2012S008303,collision
 2012S008304,frontal
@@ -26325,7 +26325,7 @@ num_incident,accident_type
 2012S008454,collision
 2012S008455,collision
 2012S008456,fall_inside_vehicle
-2012S008457,Other_types
+2012S008457,misc_type
 2012S008458,crash
 2012S008459,collision
 2012S008460,fall--motorcycle
@@ -26703,7 +26703,7 @@ num_incident,accident_type
 2012S008833,collision
 2012S008834,run_over
 2012S008835,collision
-2012S008836,Other_types
+2012S008836,misc_type
 2012S008837,frontal
 2012S008838,collision
 2012S008839,collision
@@ -27458,7 +27458,7 @@ num_incident,accident_type
 2013S000322,collision
 2013S000323,collision
 2013S000324,collision
-2013S000325,Other_types
+2013S000325,misc_type
 2013S000326,collision
 2013S000327,collision
 2013S000328,collision
@@ -27563,7 +27563,7 @@ num_incident,accident_type
 2013S000427,run_over
 2013S000428,frontal
 2013S000429,collision
-2013S000430,Other_types
+2013S000430,misc_type
 2013S000431,collision
 2013S000432,crash
 2013S000433,fall--motorcycle
@@ -27885,7 +27885,7 @@ num_incident,accident_type
 2013S000750,fall--motorcycle
 2013S000751,frontal
 2013S000752,collision
-2013S000753,Other_types
+2013S000753,misc_type
 2013S000754,collision
 2013S000755,run_over
 2013S000756,collision
@@ -28094,7 +28094,7 @@ num_incident,accident_type
 2013S000959,crash
 2013S000960,run_over
 2013S000961,collision
-2013S000962,Other_types
+2013S000962,misc_type
 2013S000963,frontal
 2013S000964,frontal
 2013S000965,collision
@@ -28464,7 +28464,7 @@ num_incident,accident_type
 2013S001330,run_over
 2013S001331,run_over
 2013S001332,run_over
-2013S001333,Other_types
+2013S001333,misc_type
 2013S001334,collision
 2013S001335,fall--motorcycle
 2013S001336,fall_inside_vehicle
@@ -28600,7 +28600,7 @@ num_incident,accident_type
 2013S001466,collision
 2013S001467,frontal
 2013S001468,collision
-2013S001469,Other_types
+2013S001469,misc_type
 2013S001470,collision
 2013S001471,crash
 2013S001472,crash
@@ -28715,7 +28715,7 @@ num_incident,accident_type
 2013S001581,frontal
 2013S001582,run_over
 2013S001583,collision
-2013S001584,Other_types
+2013S001584,misc_type
 2013S001585,fall--motorcycle
 2013S001586,collision
 2013S001587,run_over
@@ -29417,7 +29417,7 @@ num_incident,accident_type
 2013S002284,run_over
 2013S002285,collision
 2013S002286,collision
-2013S002287,Other_types
+2013S002287,misc_type
 2013S002288,collision
 2013S002289,collision
 2013S002290,collision
@@ -30118,7 +30118,7 @@ num_incident,accident_type
 2013S002985,frontal
 2013S002986,frontal
 2013S002987,collision
-2013S002988,Other_types
+2013S002988,misc_type
 2013S002989,run_over
 2013S002990,collision
 2013S002991,frontal
@@ -30222,11 +30222,11 @@ num_incident,accident_type
 2013S003089,frontal
 2013S003090,frontal
 2013S003091,collision
-2013S003092,Other_types
+2013S003092,misc_type
 2013S003093,collision
 2013S003094,frontal
 2013S003095,collision
-2013S003096,Other_types
+2013S003096,misc_type
 2013S003097,collision
 2013S003098,collision
 2013S003099,fall--motorcycle
@@ -30262,7 +30262,7 @@ num_incident,accident_type
 2013S003129,fall_inside_vehicle
 2013S003130,collision
 2013S003131,run_over
-2013S003132,Other_types
+2013S003132,misc_type
 2013S003133,frontal
 2013S003134,collision
 2013S003135,collision
@@ -30270,7 +30270,7 @@ num_incident,accident_type
 2013S003137,frontal
 2013S003138,run_over
 2013S003139,collision
-2013S003140,Other_types
+2013S003140,misc_type
 2013S003141,frontal
 2013S003142,crash
 2013S003143,frontal
@@ -30369,7 +30369,7 @@ num_incident,accident_type
 2013S003236,misc_type
 2013S003237,crash
 2013S003238,frontal
-2013S003239,Other_types
+2013S003239,misc_type
 2013S003240,collision
 2013S003241,collision
 2013S003242,frontal
@@ -31024,7 +31024,7 @@ num_incident,accident_type
 2013S003891,collision
 2013S003892,collision
 2013S003893,collision
-2013S003894,Other_types
+2013S003894,misc_type
 2013S003895,collision
 2013S003896,fall--motorcycle
 2013S003897,run_over
@@ -31363,7 +31363,7 @@ num_incident,accident_type
 2013S004230,collision
 2013S004231,collision
 2013S004232,collision
-2013S004233,Other_types
+2013S004233,misc_type
 2013S004234,collision
 2013S004235,fall_inside_vehicle
 2013S004236,crash
@@ -31960,7 +31960,7 @@ num_incident,accident_type
 2013S004827,collision
 2013S004828,collision
 2013S004829,collision
-2013S004830,Other_types
+2013S004830,misc_type
 2013S004831,collision
 2013S004833,collision
 2013S004834,collision
@@ -32583,7 +32583,7 @@ num_incident,accident_type
 2013S005452,collision
 2013S005453,collision
 2013S005454,frontal
-2013S005455,Other_types
+2013S005455,misc_type
 2013S005456,crash
 2013S005457,collision
 2013S005458,collision
@@ -33679,7 +33679,7 @@ num_incident,accident_type
 2013S006550,collision
 2013S006551,collision
 2013S006552,frontal
-2013S006553,Other_types
+2013S006553,misc_type
 2013S006554,frontal
 2013S006555,collision
 2013S006556,crash
@@ -33724,7 +33724,7 @@ num_incident,accident_type
 2013S006595,collision
 2013S006596,collision
 2013S006597,collision
-2013S006598,Other_types
+2013S006598,misc_type
 2013S006599,collision
 2013S006600,collision
 2013S006601,collision
@@ -33786,7 +33786,7 @@ num_incident,accident_type
 2013S006657,frontal
 2013S006658,crash
 2013S006659,frontal
-2013S006660,Other_types
+2013S006660,misc_type
 2013S006661,run_over
 2013S006662,frontal
 2013S006663,run_over
@@ -34311,7 +34311,7 @@ num_incident,accident_type
 2013S007184,collision
 2013S007185,collision
 2013S007186,run_over
-2013S007187,Other_types
+2013S007187,misc_type
 2013S007188,frontal
 2013S007189,fall--motorcycle
 2013S007190,frontal
@@ -35454,7 +35454,7 @@ num_incident,accident_type
 2013S008333,run_over
 2013S008334,collision
 2013S008335,frontal
-2013S008336,Other_types
+2013S008336,misc_type
 2013S008337,collision
 2013S008338,misc_type
 2013S008339,collision
@@ -36241,7 +36241,7 @@ num_incident,accident_type
 2013S009122,fall--motorcycle
 2013S009123,collision
 2013S009124,collision
-2013S009125,Other_types
+2013S009125,misc_type
 2013S009126,frontal
 2013S009127,collision
 2013S009128,collision
@@ -36300,7 +36300,7 @@ num_incident,accident_type
 2013S009181,collision
 2013S009182,fall--motorcycle
 2013S009183,collision
-2013S009184,Other_types
+2013S009184,misc_type
 2013S009185,collision
 2013S009186,frontal
 2013S009187,fall--motorcycle
@@ -36867,7 +36867,7 @@ num_incident,accident_type
 2014S000274,fall--motorcycle
 2014S000275,collision
 2014S000276,run_over
-2014S000277,Other_types
+2014S000277,misc_type
 2014S000278,run_over
 2014S000279,fall--motorcycle
 2014S000280,frontal
@@ -37074,7 +37074,7 @@ num_incident,accident_type
 2014S000483,collision
 2014S000484,run_over
 2014S000485,frontal
-2014S000486,Other_types
+2014S000486,misc_type
 2014S000487,collision
 2014S000488,collision
 2014S000489,fall_inside_vehicle
@@ -37692,7 +37692,7 @@ num_incident,accident_type
 2014S001102,collision
 2014S001103,frontal
 2014S001104,frontal
-2014S001105,Other_types
+2014S001105,misc_type
 2014S001106,collision
 2014S001107,misc_type
 2014S001108,frontal
@@ -38639,7 +38639,7 @@ num_incident,accident_type
 2014S002052,frontal
 2014S002053,collision
 2014S002054,collision
-2014S002055,Other_types
+2014S002055,misc_type
 2014S002056,crash
 2014S002057,frontal
 2014S002058,collision
@@ -39187,7 +39187,7 @@ num_incident,accident_type
 2014S002602,frontal
 2014S002603,frontal
 2014S002604,collision
-2014S002605,Other_types
+2014S002605,misc_type
 2014S002606,collision
 2014S002607,frontal
 2014S002608,crash
@@ -39737,7 +39737,7 @@ num_incident,accident_type
 2014S003154,frontal
 2014S003155,run_over
 2014S003156,collision
-2014S003157,Other_types
+2014S003157,misc_type
 2014S003158,collision
 2014S003159,run_over
 2014S003160,frontal
@@ -40539,7 +40539,7 @@ num_incident,accident_type
 2014S003958,collision
 2014S003959,collision
 2014S003960,collision
-2014S003961,Other_types
+2014S003961,misc_type
 2014S003962,collision
 2014S003963,frontal
 2014S003964,frontal
@@ -41707,7 +41707,7 @@ num_incident,accident_type
 2014S005128,frontal
 2014S005129,collision
 2014S005130,collision
-2014S005131,Other_types
+2014S005131,misc_type
 2014S005132,collision
 2014S005133,collision
 2014S005134,collision
@@ -41717,7 +41717,7 @@ num_incident,accident_type
 2014S005138,frontal
 2014S005139,collision
 2014S005140,collision
-2014S005141,Other_types
+2014S005141,misc_type
 2014S005142,fall--motorcycle
 2014S005143,frontal
 2014S005144,fall--motorcycle
@@ -41880,7 +41880,7 @@ num_incident,accident_type
 2014S005302,fall--motorcycle
 2014S005303,collision
 2014S005304,frontal
-2014S005305,Other_types
+2014S005305,misc_type
 2014S005306,collision
 2014S005307,collision
 2014S005308,run_over
@@ -42094,7 +42094,7 @@ num_incident,accident_type
 2014S005516,run_over
 2014S005517,frontal
 2014S005518,collision
-2014S005519,Other_types
+2014S005519,misc_type
 2014S005520,collision
 2014S005521,fall--motorcycle
 2014S005522,collision
@@ -42433,7 +42433,7 @@ num_incident,accident_type
 2014S005857,crash
 2014S005858,collision
 2014S005859,run_over
-2014S005860,Other_types
+2014S005860,misc_type
 2014S005861,frontal
 2014S005862,collision
 2014S005863,frontal
@@ -43024,7 +43024,7 @@ num_incident,accident_type
 2014S006449,frontal
 2014S006450,collision
 2014S006451,collision
-2014S006452,Other_types
+2014S006452,misc_type
 2014S006453,collision
 2014S006454,collision
 2014S006455,collision
@@ -43033,7 +43033,7 @@ num_incident,accident_type
 2014S006458,collision
 2014S006459,frontal
 2014S006460,collision
-2014S006461,Other_types
+2014S006461,misc_type
 2014S006462,frontal
 2014S006463,frontal
 2014S006464,collision
@@ -43320,7 +43320,7 @@ num_incident,accident_type
 2014S006745,run_over
 2014S006746,run_over
 2014S006747,frontal
-2014S006748,Other_types
+2014S006748,misc_type
 2014S006749,collision
 2014S006750,collision
 2014S006751,frontal
@@ -43654,7 +43654,7 @@ num_incident,accident_type
 2014S007080,collision
 2014S007081,collision
 2014S007082,collision
-2014S007083,Other_types
+2014S007083,misc_type
 2014S007084,collision
 2014S007085,fall--motorcycle
 2014S007086,collision
@@ -45184,7 +45184,7 @@ num_incident,accident_type
 2014S008618,frontal
 2014S008619,collision
 2014S008620,collision
-2014S008621,Other_types
+2014S008621,misc_type
 2014S008622,collision
 2014S008623,fall--motorcycle
 2014S008624,frontal
@@ -45494,7 +45494,7 @@ num_incident,accident_type
 2014S008928,collision
 2014S008929,run_over
 2014S008930,collision
-2014S008931,Other_types
+2014S008931,misc_type
 2014S008932,frontal
 2014S008933,misc_type
 2014S008934,run_over
@@ -45762,7 +45762,7 @@ num_incident,accident_type
 2014S009196,collision
 2014S009197,crash
 2014S009198,collision
-2014S009199,Other_types
+2014S009199,misc_type
 2014S009200,frontal
 2014S009201,frontal
 2014S009202,frontal
@@ -46305,7 +46305,7 @@ num_incident,accident_type
 2015S000044,crash
 2015S000045,frontal
 2015S000046,collision
-2015S000047,Other_types
+2015S000047,misc_type
 2015S000048,collision
 2015S000049,collision
 2015S000050,collision
@@ -46858,7 +46858,7 @@ num_incident,accident_type
 2015S000599,collision
 2015S000600,collision
 2015S000601,crash
-2015S000602,Other_types
+2015S000602,misc_type
 2015S000603,run_over
 2015S000604,frontal
 2015S000605,misc_type
@@ -47849,7 +47849,7 @@ num_incident,accident_type
 2015S001591,collision
 2015S001592,frontal
 2015S001593,crash
-2015S001594,Other_types
+2015S001594,misc_type
 2015S001595,run_over
 2015S001596,collision
 2015S001597,run_over
@@ -48010,7 +48010,7 @@ num_incident,accident_type
 2015S001752,frontal
 2015S001753,frontal
 2015S001754,frontal
-2015S001755,Other_types
+2015S001755,misc_type
 2015S001756,collision
 2015S001757,frontal
 2015S001758,run_over
@@ -48290,7 +48290,7 @@ num_incident,accident_type
 2015S002032,collision
 2015S002033,collision
 2015S002034,collision
-2015S002035,Other_types
+2015S002035,misc_type
 2015S002036,crash
 2015S002037,run_over
 2015S002038,collision
@@ -48908,7 +48908,7 @@ num_incident,accident_type
 2015S002650,collision
 2015S002651,run_over
 2015S002652,collision
-2015S002653,Other_types
+2015S002653,misc_type
 2015S002654,collision
 2015S002655,collision
 2015S002656,collision
@@ -49079,7 +49079,7 @@ num_incident,accident_type
 2015S002821,run_over
 2015S002822,collision
 2015S002823,collision
-2015S002824,Other_types
+2015S002824,misc_type
 2015S002825,collision
 2015S002826,crash
 2015S002827,fall--motorcycle
@@ -49240,7 +49240,7 @@ num_incident,accident_type
 2015S002982,collision
 2015S002983,frontal
 2015S002984,collision
-2015S002985,Other_types
+2015S002985,misc_type
 2015S002986,collision
 2015S002987,collision
 2015S002988,run_over
@@ -50028,7 +50028,7 @@ num_incident,accident_type
 2015S003772,collision
 2015S003773,run_over
 2015S003774,run_over
-2015S003775,Other_types
+2015S003775,misc_type
 2015S003776,collision
 2015S003777,run_over
 2015S003778,run_over
@@ -50773,7 +50773,7 @@ num_incident,accident_type
 2015S004518,run_over
 2015S004519,run_over
 2015S004520,collision
-2015S004521,Other_types
+2015S004521,misc_type
 2015S004522,collision
 2015S004523,collision
 2015S004524,collision
@@ -50904,7 +50904,7 @@ num_incident,accident_type
 2015S004649,collision
 2015S004650,frontal
 2015S004651,fall--motorcycle
-2015S004652,Other_types
+2015S004652,misc_type
 2015S004653,fall--motorcycle
 2015S004654,crash
 2015S004655,frontal
@@ -51967,7 +51967,7 @@ num_incident,accident_type
 2015S005713,crash
 2015S005714,collision
 2015S005715,collision
-2015S005716,Other_types
+2015S005716,misc_type
 2015S005717,collision
 2015S005718,collision
 2015S005719,run_over
@@ -52736,7 +52736,7 @@ num_incident,accident_type
 2015S006483,run_over
 2015S006484,run_over
 2015S006485,collision
-2015S006486,Other_types
+2015S006486,misc_type
 2015S006487,crash
 2015S006488,collision
 2015S006489,collision
@@ -53133,7 +53133,7 @@ num_incident,accident_type
 2015S006880,crash
 2015S006881,collision
 2015S006882,fall_inside_vehicle
-2015S006883,Other_types
+2015S006883,misc_type
 2015S006884,frontal
 2015S006885,collision
 2015S006886,run_over
@@ -53637,7 +53637,7 @@ num_incident,accident_type
 2015S007384,misc_type
 2015S007385,collision
 2015S007386,collision
-2015S007387,Other_types
+2015S007387,misc_type
 2015S007388,collision
 2015S007389,frontal
 2015S007390,frontal
@@ -53958,7 +53958,7 @@ num_incident,accident_type
 2015S007705,collision
 2015S007706,fall--motorcycle
 2015S007707,collision
-2015S007708,Other_types
+2015S007708,misc_type
 2015S007709,fall--motorcycle
 2015S007710,frontal
 2015S007711,frontal
@@ -54156,7 +54156,7 @@ num_incident,accident_type
 2015S007903,fall_inside_vehicle
 2015S007904,crash
 2015S007905,collision
-2015S007906,Other_types
+2015S007906,misc_type
 2015S007907,crash
 2015S007908,frontal
 2015S007909,collision
@@ -54365,7 +54365,7 @@ num_incident,accident_type
 2015S008112,collision
 2015S008113,collision
 2015S008114,frontal
-2015S008115,Other_types
+2015S008115,misc_type
 2015S008116,frontal
 2015S008117,collision
 2015S008118,collision
@@ -54468,7 +54468,7 @@ num_incident,accident_type
 2015S008215,collision
 2015S008216,misc_type
 2015S008217,crash
-2015S008218,Other_types
+2015S008218,misc_type
 2015S008219,collision
 2015S008220,fall--motorcycle
 2015S008221,collision
@@ -54993,7 +54993,7 @@ num_incident,accident_type
 2015S008740,frontal
 2015S008741,frontal
 2015S008742,frontal
-2015S008743,Other_types
+2015S008743,misc_type
 2015S008744,collision
 2015S008745,crash
 2015S008746,fall_inside_vehicle
@@ -55053,7 +55053,7 @@ num_incident,accident_type
 2015S008800,collision
 2015S008801,collision
 2015S008802,collision
-2015S008803,Other_types
+2015S008803,misc_type
 2015S008804,run_over
 2015S008805,misc_type
 2015S008806,collision
@@ -55247,7 +55247,7 @@ num_incident,accident_type
 2015S008994,collision
 2015S008995,misc_type
 2015S008996,frontal
-2015S008997,Other_types
+2015S008997,misc_type
 2015S008998,collision
 2015S008999,collision
 2015S009000,collision
@@ -56103,7 +56103,7 @@ num_incident,accident_type
 2015S009852,misc_type
 2015S009853,collision
 2015S009854,fall--motorcycle
-2015S009855,Other_types
+2015S009855,misc_type
 2015S009856,collision
 2015S009857,frontal
 2015S009858,crash
@@ -56305,7 +56305,7 @@ num_incident,accident_type
 2016S000036,crash
 2016S000037,collision
 2016S000038,fall--motorcycle
-2016S000039,Other_types
+2016S000039,misc_type
 2016S000040,fall--motorcycle
 2016S000041,collision
 2016S000042,frontal
@@ -56512,7 +56512,7 @@ num_incident,accident_type
 2016S000243,collision
 2016S000244,frontal
 2016S000245,collision
-2016S000246,Other_types
+2016S000246,misc_type
 2016S000247,fall--motorcycle
 2016S000248,collision
 2016S000249,collision
@@ -56736,7 +56736,7 @@ num_incident,accident_type
 2016S000467,run_over
 2016S000468,run_over
 2016S000469,frontal
-2016S000470,Other_types
+2016S000470,misc_type
 2016S000471,frontal
 2016S000472,run_over
 2016S000473,run_over
@@ -56813,7 +56813,7 @@ num_incident,accident_type
 2016S000545,frontal
 2016S000546,frontal
 2016S000547,collision
-2016S000548,Other_types
+2016S000548,misc_type
 2016S000549,collision
 2016S000550,collision
 2016S000551,frontal
@@ -56884,10 +56884,10 @@ num_incident,accident_type
 2016S000616,collision
 2016S000617,collision
 2016S000618,collision
-2016S000619,Other_types
+2016S000619,misc_type
 2016S000620,collision
 2016S000621,crash
-2016S000622,Other_types
+2016S000622,misc_type
 2016S000623,collision
 2016S000624,collision
 2016S000625,run_over
@@ -56910,7 +56910,7 @@ num_incident,accident_type
 2016S000642,collision
 2016S000643,fall--motorcycle
 2016S000644,collision
-2016S000645,Other_types
+2016S000645,misc_type
 2016S000646,collision
 2016S000647,collision
 2016S000648,fall--motorcycle
@@ -57021,7 +57021,7 @@ num_incident,accident_type
 2016S000753,collision
 2016S000754,collision
 2016S000755,collision
-2016S000756,Other_types
+2016S000756,misc_type
 2016S000757,run_over
 2016S000758,fall_inside_vehicle
 2016S000759,collision
@@ -57467,7 +57467,7 @@ num_incident,accident_type
 2016S001200,collision
 2016S001201,collision
 2016S001202,frontal
-2016S001203,Other_types
+2016S001203,misc_type
 2016S001204,collision
 2016S001205,run_over
 2016S001206,collision
@@ -58123,7 +58123,7 @@ num_incident,accident_type
 2016S001856,collision
 2016S001857,fall--motorcycle
 2016S001858,collision
-2016S001859,Other_types
+2016S001859,misc_type
 2016S001860,collision
 2016S001861,run_over
 2016S001862,run_over
@@ -58162,7 +58162,7 @@ num_incident,accident_type
 2016S001895,fall_inside_vehicle
 2016S001896,crash
 2016S001897,fall--motorcycle
-2016S001898,Other_types
+2016S001898,misc_type
 2016S001899,frontal
 2016S001900,collision
 2016S001901,run_over
@@ -59021,7 +59021,7 @@ num_incident,accident_type
 2016S002754,collision
 2016S002755,fall_inside_vehicle
 2016S002756,collision
-2016S002757,Other_types
+2016S002757,misc_type
 2016S002758,collision
 2016S002759,fall_inside_vehicle
 2016S002760,run_over
@@ -59638,7 +59638,7 @@ num_incident,accident_type
 2016S003371,collision
 2016S003372,collision
 2016S003373,fall--motorcycle
-2016S003374,Other_types
+2016S003374,misc_type
 2016S003375,collision
 2016S003376,frontal
 2016S003377,collision
@@ -59844,7 +59844,7 @@ num_incident,accident_type
 2016S003577,crash
 2016S003578,frontal
 2016S003579,collision
-2016S003580,Other_types
+2016S003580,misc_type
 2016S003581,collision
 2016S003582,collision
 2016S003583,collision
@@ -59872,7 +59872,7 @@ num_incident,accident_type
 2016S003605,fall--motorcycle
 2016S003606,frontal
 2016S003607,run_over
-2016S003608,Other_types
+2016S003608,misc_type
 2016S003609,fall--motorcycle
 2016S003610,crash
 2016S003611,run_over
@@ -60019,7 +60019,7 @@ num_incident,accident_type
 2016S003752,fall--motorcycle
 2016S003753,frontal
 2016S003754,collision
-2016S003755,Other_types
+2016S003755,misc_type
 2016S003756,collision
 2016S003757,run_over
 2016S003758,collision
@@ -60325,7 +60325,7 @@ num_incident,accident_type
 2016S004059,crash
 2016S004060,collision
 2016S004061,collision
-2016S004062,Other_types
+2016S004062,misc_type
 2016S004063,collision
 2016S004064,run_over
 2016S004065,collision
@@ -61171,7 +61171,7 @@ num_incident,accident_type
 2016S004906,collision
 2016S004907,run_over
 2016S004908,frontal
-2016S004909,Other_types
+2016S004909,misc_type
 2016S004910,collision
 2016S004911,fall--motorcycle
 2016S004912,run_over
@@ -61229,7 +61229,7 @@ num_incident,accident_type
 2016S004964,run_over
 2016S004965,collision
 2016S004966,collision
-2016S004967,Other_types
+2016S004967,misc_type
 2016S004968,collision
 2016S004969,crash
 2016S004970,crash
@@ -62092,7 +62092,7 @@ num_incident,accident_type
 2016S005828,crash
 2016S005829,collision
 2016S005830,run_over
-2016S005831,Other_types
+2016S005831,misc_type
 2016S005832,frontal
 2016S005833,frontal
 2016S005834,misc_type
@@ -62415,7 +62415,7 @@ num_incident,accident_type
 2016S006151,frontal
 2016S006152,frontal
 2016S006153,fall--motorcycle
-2016S006154,Other_types
+2016S006154,misc_type
 2016S006155,fall--motorcycle
 2016S006156,crash
 2016S006157,collision
@@ -62562,7 +62562,7 @@ num_incident,accident_type
 2016S006298,run_over
 2016S006299,crash
 2016S006300,collision
-2016S006301,Other_types
+2016S006301,misc_type
 2016S006302,collision
 2016S006303,run_over
 2016S006304,collision
@@ -62687,7 +62687,7 @@ num_incident,accident_type
 2016S006423,crash
 2016S006424,frontal
 2016S006425,misc_type
-2016S006426,Other_types
+2016S006426,misc_type
 2016S006427,fall--motorcycle
 2016S006428,frontal
 2016S006429,crash
@@ -62848,12 +62848,12 @@ num_incident,accident_type
 2016S006585,run_over
 2016S006586,fall--motorcycle
 2016S006587,collision
-2016S006588,Other_types
+2016S006588,misc_type
 2016S006589,collision
 2016S006590,crash
 2016S006591,crash
 2016S006592,collision
-2016S006593,Other_types
+2016S006593,misc_type
 2016S006594,fall--motorcycle
 2016S006595,fall--motorcycle
 2016S006596,collision
@@ -62921,7 +62921,7 @@ num_incident,accident_type
 2016S006658,frontal
 2016S006659,collision
 2016S006660,collision
-2016S006661,Other_types
+2016S006661,misc_type
 2016S006662,frontal
 2016S006663,collision
 2016S006664,collision
@@ -63053,7 +63053,7 @@ num_incident,accident_type
 2016S006790,collision
 2016S006791,collision
 2016S006792,collision
-2016S006793,Other_types
+2016S006793,misc_type
 2016S006794,frontal
 2016S006795,run_over
 2016S006796,run_over
@@ -63144,7 +63144,7 @@ num_incident,accident_type
 2016S006881,collision
 2016S006882,frontal
 2016S006883,fall_inside_vehicle
-2016S006884,Other_types
+2016S006884,misc_type
 2016S006885,collision
 2016S006886,run_over
 2016S006887,collision
@@ -64818,7 +64818,7 @@ num_incident,accident_type
 2016S008556,collision
 2016S008557,collision
 2016S008558,frontal
-2016S008559,Other_types
+2016S008559,misc_type
 2016S008560,collision
 2016S008561,fall--motorcycle
 2016S008562,collision
@@ -64895,7 +64895,7 @@ num_incident,accident_type
 2016S008633,collision
 2016S008634,run_over
 2016S008635,collision
-2016S008636,Other_types
+2016S008636,misc_type
 2016S008637,collision
 2016S008638,collision
 2016S008639,collision
@@ -64979,7 +64979,7 @@ num_incident,accident_type
 2016S008717,collision
 2016S008718,collision
 2016S008719,collision
-2016S008720,Other_types
+2016S008720,misc_type
 2016S008721,collision
 2016S008722,frontal
 2016S008723,collision
@@ -65357,7 +65357,7 @@ num_incident,accident_type
 2016S009096,frontal
 2016S009097,collision
 2016S009098,frontal
-2016S009099,Other_types
+2016S009099,misc_type
 2016S009100,run_over
 2016S009101,collision
 2016S009102,run_over
@@ -65567,7 +65567,7 @@ num_incident,accident_type
 2016S009306,collision
 2016S009307,collision
 2016S009308,frontal
-2016S009309,Other_types
+2016S009309,misc_type
 2016S009310,run_over
 2016S009311,frontal
 2016S009312,fall--motorcycle
@@ -65990,7 +65990,7 @@ num_incident,accident_type
 2016S009730,collision
 2016S009731,run_over
 2016S009732,frontal
-2016S009733,Other_types
+2016S009733,misc_type
 2016S009734,frontal
 2016S009735,collision
 2016S009736,run_over
@@ -67039,7 +67039,7 @@ num_incident,accident_type
 2017S000632,crash
 2017S000633,crash
 2017S000634,collision
-2017S000635,Other_types
+2017S000635,misc_type
 2017S000636,collision
 2017S000637,collision
 2017S000638,frontal
@@ -67126,7 +67126,7 @@ num_incident,accident_type
 2017S000719,crash
 2017S000720,crash
 2017S000721,crash
-2017S000722,Other_types
+2017S000722,misc_type
 2017S000723,fall--motorcycle
 2017S000724,collision
 2017S000725,fall_inside_vehicle
@@ -67620,7 +67620,7 @@ num_incident,accident_type
 2017S001213,crash
 2017S001214,frontal
 2017S001215,run_over
-2017S001216,Other_types
+2017S001216,misc_type
 2017S001217,fall--motorcycle
 2017S001218,frontal
 2017S001219,collision
@@ -67843,7 +67843,7 @@ num_incident,accident_type
 2017S001436,frontal
 2017S001437,run_over
 2017S001438,fall--motorcycle
-2017S001439,Other_types
+2017S001439,misc_type
 2017S001440,collision
 2017S001441,collision
 2017S001442,collision
@@ -68240,7 +68240,7 @@ num_incident,accident_type
 2017S001833,run_over
 2017S001834,collision
 2017S001835,fall--motorcycle
-2017S001836,Other_types
+2017S001836,misc_type
 2017S001837,frontal
 2017S001838,collision
 2017S001839,collision
@@ -68278,7 +68278,7 @@ num_incident,accident_type
 2017S001871,fall--motorcycle
 2017S001872,collision
 2017S001873,collision
-2017S001874,Other_types
+2017S001874,misc_type
 2017S001875,collision
 2017S001876,collision
 2017S001877,frontal
@@ -68669,7 +68669,7 @@ num_incident,accident_type
 2017S002262,collision
 2017S002263,collision
 2017S002264,run_over
-2017S002265,Other_types
+2017S002265,misc_type
 2017S002266,collision
 2017S002267,frontal
 2017S002268,frontal
@@ -69164,7 +69164,7 @@ num_incident,accident_type
 2017S003153,collision
 2017S003154,collision
 2017S003155,collision
-2017S003156,Other_types
+2017S003156,misc_type
 2017S003157,frontal
 2017S003158,frontal
 2017S003159,collision
@@ -69464,7 +69464,7 @@ num_incident,accident_type
 2017S003455,fall--motorcycle
 2017S003456,crash
 2017S003457,collision
-2017S003458,Other_types
+2017S003458,misc_type
 2017S003459,collision
 2017S003460,collision
 2017S003461,fall_inside_vehicle
@@ -69530,7 +69530,7 @@ num_incident,accident_type
 2017S003521,crash
 2017S003522,collision
 2017S003523,frontal
-2017S003524,Other_types
+2017S003524,misc_type
 2017S003525,run_over
 2017S003526,collision
 2017S003527,collision
@@ -69950,7 +69950,7 @@ num_incident,accident_type
 2017S003944,collision
 2017S003945,collision
 2017S003946,run_over
-2017S003947,Other_types
+2017S003947,misc_type
 2017S003948,collision
 2017S003949,collision
 2017S003950,collision
@@ -70185,7 +70185,7 @@ num_incident,accident_type
 2017S004180,collision
 2017S004181,collision
 2017S004182,fall_inside_vehicle
-2017S004183,Other_types
+2017S004183,misc_type
 2017S004184,collision
 2017S004185,fall--motorcycle
 2017S004186,collision
@@ -71017,7 +71017,7 @@ num_incident,accident_type
 2017S005013,collision
 2017S005014,collision
 2017S005015,crash
-2017S005016,Other_types
+2017S005016,misc_type
 2017S005017,collision
 2017S005018,run_over
 2017S005019,frontal
@@ -71281,7 +71281,7 @@ num_incident,accident_type
 2017S005278,collision
 2017S005279,collision
 2017S005280,run_over
-2017S005281,Other_types
+2017S005281,misc_type
 2017S005282,collision
 2017S005283,fall--motorcycle
 2017S005284,collision
@@ -71314,7 +71314,7 @@ num_incident,accident_type
 2017S005311,collision
 2017S005312,frontal
 2017S005313,collision
-2017S005314,Other_types
+2017S005314,misc_type
 2017S005315,crash
 2017S005316,frontal
 2017S005317,run_over
@@ -71515,7 +71515,7 @@ num_incident,accident_type
 2017S005514,collision
 2017S005515,collision
 2017S005516,collision
-2017S005517,Other_types
+2017S005517,misc_type
 2017S005518,collision
 2017S005519,collision
 2017S005520,collision
@@ -71613,13 +71613,13 @@ num_incident,accident_type
 2017S005615,collision
 2017S005616,collision
 2017S005617,run_over
-2017S005618,Other_types
+2017S005618,misc_type
 2017S005619,fall--motorcycle
 2017S005620,frontal
 2017S005621,collision
 2017S005622,collision
 2017S005623,run_over
-2017S005624,Other_types
+2017S005624,misc_type
 2017S005625,collision
 2017S005626,collision
 2017S005627,crash
@@ -71777,7 +71777,7 @@ num_incident,accident_type
 2017S005779,run_over
 2017S005780,fall_inside_vehicle
 2017S005781,run_over
-2017S005782,Other_types
+2017S005782,misc_type
 2017S005783,fall_inside_vehicle
 2017S005784,crash
 2017S005785,collision
@@ -71819,7 +71819,7 @@ num_incident,accident_type
 2017S005821,frontal
 2017S005822,run_over
 2017S005823,collision
-2017S005824,Other_types
+2017S005824,misc_type
 2017S005825,run_over
 2017S005826,collision
 2017S005827,collision
@@ -71987,7 +71987,7 @@ num_incident,accident_type
 2017S005990,collision
 2017S005991,collision
 2017S005992,misc_type
-2017S005993,Other_types
+2017S005993,misc_type
 2017S005994,collision
 2017S005995,run_over
 2017S005996,frontal
@@ -72033,7 +72033,7 @@ num_incident,accident_type
 2017S006036,collision
 2017S006037,collision
 2017S006038,crash
-2017S006039,Other_types
+2017S006039,misc_type
 2017S006040,crash
 2017S006041,run_over
 2017S006042,collision
@@ -72077,7 +72077,7 @@ num_incident,accident_type
 2017S006081,run_over
 2017S006082,frontal
 2017S006083,misc_type
-2017S006084,Other_types
+2017S006084,misc_type
 2017S006085,collision
 2017S006086,collision
 2017S006087,frontal
@@ -73124,7 +73124,7 @@ num_incident,accident_type
 2017S007141,collision
 2017S007142,collision
 2017S007143,run_over
-2017S007144,Other_types
+2017S007144,misc_type
 2017S007145,fall--motorcycle
 2017S007146,collision
 2017S007147,fall--motorcycle
@@ -73357,7 +73357,7 @@ num_incident,accident_type
 2017S007374,collision
 2017S007375,fall_inside_vehicle
 2017S007376,frontal
-2017S007377,Other_types
+2017S007377,misc_type
 2017S007378,run_over
 2017S007379,fall--motorcycle
 2017S007380,frontal
@@ -73531,7 +73531,7 @@ num_incident,accident_type
 2017S007550,collision
 2017S007551,crash
 2017S007552,collision
-2017S007553,Other_types
+2017S007553,misc_type
 2017S007554,collision
 2017S007555,fall--motorcycle
 2017S007556,run_over
@@ -73713,7 +73713,7 @@ num_incident,accident_type
 2017S007734,collision
 2017S007735,frontal
 2017S007736,misc_type
-2017S007737,Other_types
+2017S007737,misc_type
 2017S007738,fall--motorcycle
 2017S007739,collision
 2017S007740,collision
@@ -73737,7 +73737,7 @@ num_incident,accident_type
 2017S007758,collision
 2017S007759,collision
 2017S007760,collision
-2017S007761,Other_types
+2017S007761,misc_type
 2017S007762,collision
 2017S007763,fall_inside_vehicle
 2017S007764,collision
@@ -73757,7 +73757,7 @@ num_incident,accident_type
 2017S007778,fall_inside_vehicle
 2017S007779,collision
 2017S007780,collision
-2017S007781,Other_types
+2017S007781,misc_type
 2017S007782,collision
 2017S007783,fall--motorcycle
 2017S007784,crash
@@ -73788,7 +73788,7 @@ num_incident,accident_type
 2017S007809,collision
 2017S007810,collision
 2017S007811,collision
-2017S007812,Other_types
+2017S007812,misc_type
 2017S007813,fall_inside_vehicle
 2017S007814,collision
 2017S007815,collision
@@ -73915,7 +73915,7 @@ num_incident,accident_type
 2017S007938,collision
 2017S007939,fall--motorcycle
 2017S007940,frontal
-2017S007941,Other_types
+2017S007941,misc_type
 2017S007942,crash
 2017S007943,run_over
 2017S007944,collision
@@ -74070,7 +74070,7 @@ num_incident,accident_type
 2017S008093,fall--motorcycle
 2017S008094,run_over
 2017S008095,fall_inside_vehicle
-2017S008096,Other_types
+2017S008096,misc_type
 2017S008097,collision
 2017S008099,crash
 2017S008100,collision
@@ -74485,7 +74485,7 @@ num_incident,accident_type
 2017S008516,collision
 2017S008517,misc_type
 2017S008518,collision
-2017S008519,Other_types
+2017S008519,misc_type
 2017S008520,crash
 2017S008521,collision
 2017S008522,run_over
@@ -74537,7 +74537,7 @@ num_incident,accident_type
 2017S008569,collision
 2017S008570,collision
 2017S008571,frontal
-2017S008572,Other_types
+2017S008572,misc_type
 2017S008573,fall--motorcycle
 2017S008574,collision
 2017S008575,fall--motorcycle
@@ -75254,7 +75254,7 @@ num_incident,accident_type
 2017S009290,collision
 2017S009291,crash
 2017S009292,frontal
-2017S009293,Other_types
+2017S009293,misc_type
 2017S009294,collision
 2017S009295,collision
 2017S009296,fall--motorcycle
@@ -75366,7 +75366,7 @@ num_incident,accident_type
 2017S009403,run_over
 2017S009404,collision
 2017S009405,collision
-2017S009406,Other_types
+2017S009406,misc_type
 2017S009407,collision
 2017S009408,fall--motorcycle
 2017S009409,run_over
@@ -75874,7 +75874,7 @@ num_incident,accident_type
 2017S009914,fall--motorcycle
 2017S009915,collision
 2017S009916,fall--motorcycle
-2017S009917,Other_types
+2017S009917,misc_type
 2017S009918,collision
 2017S009919,collision
 2017S009920,collision
@@ -75949,7 +75949,7 @@ num_incident,accident_type
 2017S009989,frontal
 2017S009990,collision
 2017S009991,run_over
-2017S009992,Other_types
+2017S009992,misc_type
 2017S009993,collision
 2017S009994,run_over
 2017S009995,collision
@@ -75973,7 +75973,7 @@ num_incident,accident_type
 2017S010013,collision
 2017S010014,crash
 2017S010015,collision
-2017S010016,Other_types
+2017S010016,misc_type
 2017S010017,collision
 2017S010018,run_over
 2017S010019,fall_inside_vehicle
@@ -76316,7 +76316,7 @@ num_incident,accident_type
 2017S010357,crash
 2017S010358,frontal
 2017S010359,frontal
-2017S010360,Other_types
+2017S010360,misc_type
 2017S010361,collision
 2017S010362,misc_type
 2017S010363,collision
@@ -76701,7 +76701,7 @@ num_incident,accident_type
 2017S010742,fall--motorcycle
 2017S010743,misc_type
 2017S010744,fall--motorcycle
-2017S010745,Other_types
+2017S010745,misc_type
 2017S010746,frontal
 2017S010747,run_over
 2017S010748,frontal
@@ -76782,7 +76782,7 @@ num_incident,accident_type
 2018S000038,collision
 2018S000039,collision
 2018S000040,collision
-2018S000041,Other_types
+2018S000041,misc_type
 2018S000042,run_over
 2018S000043,crash
 2018S000044,run_over
@@ -77020,7 +77020,7 @@ num_incident,accident_type
 2018S000277,collision
 2018S000278,collision
 2018S000279,frontal
-2018S000280,Other_types
+2018S000280,misc_type
 2018S000281,collision
 2018S000282,collision
 2018S000283,collision
@@ -77266,7 +77266,7 @@ num_incident,accident_type
 2018S000525,collision
 2018S000527,collision
 2018S000528,collision
-2018S000529,Other_types
+2018S000529,misc_type
 2018S000530,misc_type
 2018S000531,crash
 2018S000532,frontal
@@ -77598,7 +77598,7 @@ num_incident,accident_type
 2018S000860,frontal
 2018S000861,collision
 2018S000862,collision
-2018S000863,Other_types
+2018S000863,misc_type
 2018S000864,frontal
 2018S000865,run_over
 2018S000866,collision
@@ -77848,7 +77848,7 @@ num_incident,accident_type
 2018S001114,collision
 2018S001115,misc_type
 2018S001116,collision
-2018S001117,Other_types
+2018S001117,misc_type
 2018S001118,run_over
 2018S001119,collision
 2018S001120,misc_type
@@ -78466,7 +78466,7 @@ num_incident,accident_type
 2018S001737,collision
 2018S001738,frontal
 2018S001739,frontal
-2018S001740,Other_types
+2018S001740,misc_type
 2018S001741,collision
 2018S001742,collision
 2018S001743,collision
@@ -78593,7 +78593,7 @@ num_incident,accident_type
 2018S001865,collision
 2018S001866,frontal
 2018S001867,fall_inside_vehicle
-2018S001868,Other_types
+2018S001868,misc_type
 2018S001869,collision
 2018S001870,collision
 2018S001871,run_over
@@ -78613,7 +78613,7 @@ num_incident,accident_type
 2018S001885,collision
 2018S001886,run_over
 2018S001887,collision
-2018S001888,Other_types
+2018S001888,misc_type
 2018S001889,run_over
 2018S001890,fall--motorcycle
 2018S001891,misc_type
@@ -79339,7 +79339,7 @@ num_incident,accident_type
 2018S002614,run_over
 2018S002615,frontal
 2018S002616,frontal
-2018S002617,Other_types
+2018S002617,misc_type
 2018S002618,collision
 2018S002619,collision
 2018S002620,collision
@@ -80360,7 +80360,7 @@ num_incident,accident_type
 2018S003643,collision
 2018S003644,run_over
 2018S003645,collision
-2018S003646,Other_types
+2018S003646,misc_type
 2018S003647,fall_inside_vehicle
 2018S003648,run_over
 2018S003649,collision
@@ -81125,7 +81125,7 @@ num_incident,accident_type
 2018S004413,frontal
 2018S004414,frontal
 2018S004415,frontal
-2018S004416,Other_types
+2018S004416,misc_type
 2018S004417,collision
 2018S004418,fall--motorcycle
 2018S004419,frontal
@@ -81366,7 +81366,7 @@ num_incident,accident_type
 2018S004654,collision
 2018S004655,collision
 2018S004656,collision
-2018S004657,Other_types
+2018S004657,misc_type
 2018S004658,run_over
 2018S004659,fall--motorcycle
 2018S004660,frontal
@@ -83294,7 +83294,7 @@ num_incident,accident_type
 2018S006590,run_over
 2018S006591,crash
 2018S006592,frontal
-2018S006593,Other_types
+2018S006593,misc_type
 2018S006594,fall--motorcycle
 2018S006595,collision
 2018S006596,fall--motorcycle
@@ -84345,7 +84345,7 @@ num_incident,accident_type
 2018S007642,collision
 2018S007643,fall--motorcycle
 2018S007644,frontal
-2018S007645,Other_types
+2018S007645,misc_type
 2018S007646,fall--motorcycle
 2018S007647,fall--motorcycle
 2018S007648,collision
@@ -84484,7 +84484,7 @@ num_incident,accident_type
 2018S007782,crash
 2018S007783,collision
 2018S007784,collision
-2018S007785,Other_types
+2018S007785,misc_type
 2018S007786,misc_type
 2018S007787,collision
 2018S007788,fall_inside_vehicle
@@ -84962,7 +84962,7 @@ num_incident,accident_type
 2018S008262,crash
 2018S008263,frontal
 2018S008264,collision
-2018S008265,Other_types
+2018S008265,misc_type
 2018S008266,collision
 2018S008267,fall--motorcycle
 2018S008268,collision
@@ -85531,7 +85531,7 @@ num_incident,accident_type
 2018S008833,collision
 2018S008834,collision
 2018S008835,run_over
-2018S008836,Other_types
+2018S008836,misc_type
 2018S008837,run_over
 2018S008838,run_over
 2018S008839,run_over
@@ -85724,7 +85724,7 @@ num_incident,accident_type
 2018S009026,run_over
 2018S009027,collision
 2018S009028,collision
-2018S009029,Other_types
+2018S009029,misc_type
 2018S009030,collision
 2018S009031,collision
 2018S009032,frontal
@@ -86661,7 +86661,7 @@ num_incident,accident_type
 2018S009963,collision
 2018S009964,collision
 2018S009965,collision
-2018S009966,Other_types
+2018S009966,misc_type
 2018S009967,collision
 2018S009968,collision
 2018S009969,collision
@@ -86745,7 +86745,7 @@ num_incident,accident_type
 2019S000075,frontal
 2019S000076,fall--motorcycle
 2019S000077,fall_inside_vehicle
-2019S000078,Other_types
+2019S000078,misc_type
 2019S000079,fall_inside_vehicle
 2019S000080,frontal
 2019S000081,frontal
@@ -87271,7 +87271,7 @@ num_incident,accident_type
 2019S000601,crash
 2019S000602,run_over
 2019S000603,crash
-2019S000604,Other_types
+2019S000604,misc_type
 2019S000605,fall--motorcycle
 2019S000606,frontal
 2019S000607,collision
@@ -87844,7 +87844,7 @@ num_incident,accident_type
 2019S001175,collision
 2019S001176,run_over
 2019S001177,frontal
-2019S001178,Other_types
+2019S001178,misc_type
 2019S001179,misc_type
 2019S001180,frontal
 2019S001181,collision
@@ -88162,7 +88162,7 @@ num_incident,accident_type
 2019S001494,frontal
 2019S001495,frontal
 2019S001496,collision
-2019S001497,Other_types
+2019S001497,misc_type
 2019S001498,run_over
 2019S001499,collision
 2019S001500,fall_inside_vehicle
@@ -88220,7 +88220,7 @@ num_incident,accident_type
 2019S001552,frontal
 2019S001553,frontal
 2019S001554,collision
-2019S001555,Other_types
+2019S001555,misc_type
 2019S001556,collision
 2019S001557,crash
 2019S001558,fall--motorcycle
@@ -89284,7 +89284,7 @@ num_incident,accident_type
 2019S002619,collision
 2019S002620,collision
 2019S002621,frontal
-2019S002622,Other_types
+2019S002622,misc_type
 2019S002623,collision
 2019S002624,frontal
 2019S002625,collision
@@ -89632,7 +89632,7 @@ num_incident,accident_type
 2019S002970,collision
 2019S002971,frontal
 2019S002972,collision
-2019S002973,Other_types
+2019S002973,misc_type
 2019S002974,fall--motorcycle
 2019S002975,collision
 2019S002976,collision
@@ -89775,11 +89775,11 @@ num_incident,accident_type
 2019S003113,crash
 2019S003114,run_over
 2019S003115,collision
-2019S003116,Other_types
+2019S003116,misc_type
 2019S003117,collision
 2019S003118,collision
 2019S003119,frontal
-2019S003120,Other_types
+2019S003120,misc_type
 2019S003121,run_over
 2019S003122,run_over
 2019S003123,run_over
@@ -90181,7 +90181,7 @@ num_incident,accident_type
 2019S003524,misc_type
 2019S003525,collision
 2019S003526,misc_type
-2019S003527,Other_types
+2019S003527,misc_type
 2019S003528,frontal
 2019S003529,collision
 2019S003530,collision
@@ -90256,7 +90256,7 @@ num_incident,accident_type
 2019S003599,collision
 2019S003600,collision
 2019S003601,collision
-2019S003602,Other_types
+2019S003602,misc_type
 2019S003603,collision
 2019S003604,frontal
 2019S003605,misc_type
@@ -91265,7 +91265,7 @@ num_incident,accident_type
 2019S004611,frontal
 2019S004612,run_over
 2019S004613,run_over
-2019S004614,Other_types
+2019S004614,misc_type
 2019S004615,collision
 2019S004616,frontal
 2019S004617,frontal
@@ -91370,7 +91370,7 @@ num_incident,accident_type
 2019S004716,frontal
 2019S004717,fall_inside_vehicle
 2019S004718,collision
-2019S004719,Other_types
+2019S004719,misc_type
 2019S004720,fall--motorcycle
 2019S004721,fall--motorcycle
 2019S004722,frontal
@@ -91741,7 +91741,7 @@ num_incident,accident_type
 2019S005087,run_over
 2019S005088,frontal
 2019S005089,collision
-2019S005090,Other_types
+2019S005090,misc_type
 2019S005091,frontal
 2019S005092,frontal
 2019S005093,collision
@@ -92511,7 +92511,7 @@ num_incident,accident_type
 2019S005858,run_over
 2019S005859,run_over
 2019S005860,frontal
-2019S005861,Other_types
+2019S005861,misc_type
 2019S005862,collision
 2019S005863,fall--motorcycle
 2019S005864,frontal
@@ -92758,7 +92758,7 @@ num_incident,accident_type
 2019S006105,frontal
 2019S006106,crash
 2019S006107,collision
-2019S006108,Other_types
+2019S006108,misc_type
 2019S006109,misc_type
 2019S006110,collision
 2019S006111,misc_type
@@ -93184,7 +93184,7 @@ num_incident,accident_type
 2019S006531,collision
 2019S006532,fall--motorcycle
 2019S006533,crash
-2019S006534,Other_types
+2019S006534,misc_type
 2019S006535,collision
 2019S006536,run_over
 2019S006537,collision
@@ -93236,7 +93236,7 @@ num_incident,accident_type
 2019S006583,frontal
 2019S006584,collision
 2019S006585,collision
-2019S006586,Other_types
+2019S006586,misc_type
 2019S006587,collision
 2019S006588,collision
 2019S006589,fall_inside_vehicle
@@ -93861,7 +93861,7 @@ num_incident,accident_type
 2019S007209,run_over
 2019S007210,collision
 2019S007211,fall_inside_vehicle
-2019S007212,Other_types
+2019S007212,misc_type
 2019S007213,collision
 2019S007214,collision
 2019S007215,run_over
@@ -94325,7 +94325,7 @@ num_incident,accident_type
 2019S007673,collision
 2019S007674,crash
 2019S007675,collision
-2019S007676,Other_types
+2019S007676,misc_type
 2019S007677,frontal
 2019S007678,frontal
 2019S007679,run_over
@@ -95722,9 +95722,9 @@ num_incident,accident_type
 2019S009073,frontal
 2019S009074,run_over
 2019S009075,collision
-2019S009076,Other_types
+2019S009076,misc_type
 2019S009077,frontal
-2019S009078,Other_types
+2019S009078,misc_type
 2019S009079,collision
 2019S009080,collision
 2019S009081,collision
@@ -96177,7 +96177,7 @@ num_incident,accident_type
 2019S009529,collision
 2019S009530,frontal
 2019S009531,run_over
-2019S009532,Other_types
+2019S009532,misc_type
 2019S009533,frontal
 2019S009534,collision
 2019S009535,fall--motorcycle
@@ -96268,7 +96268,7 @@ num_incident,accident_type
 2019S009620,collision
 2019S009621,fall--motorcycle
 2019S009622,collision
-2019S009623,Other_types
+2019S009623,misc_type
 2019S009624,frontal
 2019S009625,frontal
 2019S009626,collision
@@ -96751,7 +96751,7 @@ num_incident,accident_type
 2020S000053,crash
 2020S000054,frontal
 2020S000055,fall--motorcycle
-2020S000056,Other_types
+2020S000056,misc_type
 2020S000057,collision
 2020S000058,collision
 2020S000059,run_over
@@ -96898,7 +96898,7 @@ num_incident,accident_type
 2020S000200,collision
 2020S000201,collision
 2020S000202,run_over
-2020S000203,Other_types
+2020S000203,misc_type
 2020S000204,fall--motorcycle
 2020S000205,frontal
 2020S000206,run_over
@@ -97390,7 +97390,7 @@ num_incident,accident_type
 2020S000697,fall--motorcycle
 2020S000698,run_over
 2020S000699,collision
-2020S000700,Other_types
+2020S000700,misc_type
 2020S000701,run_over
 2020S000702,collision
 2020S000703,collision
@@ -97663,7 +97663,7 @@ num_incident,accident_type
 2020S000972,collision
 2020S000973,frontal
 2020S000974,collision
-2020S000975,Other_types
+2020S000975,misc_type
 2020S000976,run_over
 2020S000977,collision
 2020S000978,collision
@@ -97865,7 +97865,7 @@ num_incident,accident_type
 2020S001174,frontal
 2020S001175,collision
 2020S001176,frontal
-2020S001177,Other_types
+2020S001177,misc_type
 2020S001178,collision
 2020S001179,collision
 2020S001180,fall--motorcycle
@@ -98258,7 +98258,7 @@ num_incident,accident_type
 2020S001570,collision
 2020S001571,run_over
 2020S001572,collision
-2020S001573,Other_types
+2020S001573,misc_type
 2020S001574,misc_type
 2020S001575,frontal
 2020S001576,collision
@@ -98282,7 +98282,7 @@ num_incident,accident_type
 2020S001594,collision
 2020S001595,frontal
 2020S001596,collision
-2020S001597,Other_types
+2020S001597,misc_type
 2020S001598,crash
 2020S001599,collision
 2020S001600,collision
@@ -98552,7 +98552,7 @@ num_incident,accident_type
 2020S001865,frontal
 2020S001866,fall_inside_vehicle
 2020S001867,frontal
-2020S001868,Other_types
+2020S001868,misc_type
 2020S001869,frontal
 2020S001870,frontal
 2020S001871,crash
@@ -98915,7 +98915,7 @@ num_incident,accident_type
 2020S002228,frontal
 2020S002229,collision
 2020S002230,crash
-2020S002231,Other_types
+2020S002231,misc_type
 2020S002232,frontal
 2020S002233,frontal
 2020S002234,collision
@@ -99283,7 +99283,7 @@ num_incident,accident_type
 2020S002596,collision
 2020S002597,collision
 2020S002598,collision
-2020S002599,Other_types
+2020S002599,misc_type
 2020S002600,collision
 2020S002601,fall--motorcycle
 2020S002602,collision
@@ -99511,7 +99511,7 @@ num_incident,accident_type
 2020S002824,run_over
 2020S002825,collision
 2020S002826,crash
-2020S002827,Other_types
+2020S002827,misc_type
 2020S002828,collision
 2020S002829,collision
 2020S002830,fall--motorcycle
@@ -99585,7 +99585,7 @@ num_incident,accident_type
 2020S002898,run_over
 2020S002899,collision
 2020S002900,collision
-2020S002901,Other_types
+2020S002901,misc_type
 2020S002902,frontal
 2020S002903,frontal
 2020S002904,frontal
@@ -100534,7 +100534,7 @@ num_incident,accident_type
 2020S003849,crash
 2020S003850,collision
 2020S003851,collision
-2020S003852,Other_types
+2020S003852,misc_type
 2020S003853,frontal
 2020S003854,fall--motorcycle
 2020S003855,frontal
@@ -100811,7 +100811,7 @@ num_incident,accident_type
 2020S004126,frontal
 2020S004127,run_over
 2020S004128,crash
-2020S004129,Other_types
+2020S004129,misc_type
 2020S004130,collision
 2020S004131,collision
 2020S004132,collision
@@ -102479,7 +102479,7 @@ num_incident,accident_type
 2020S005798,collision
 2020S005799,run_over
 2020S005800,run_over
-2020S005801,Other_types
+2020S005801,misc_type
 2020S005802,frontal
 2020S005803,frontal
 2020S005804,collision
@@ -104277,7 +104277,7 @@ num_incident,accident_type
 2021S001319,crash
 2021S001320,collision
 2021S001321,collision
-2021S001322,Other_types
+2021S001322,misc_type
 2021S001323,frontal
 2021S001324,collision
 2021S001325,collision
@@ -105156,7 +105156,7 @@ num_incident,accident_type
 2021S002203,collision
 2021S002204,frontal
 2021S002205,run_over
-2021S002206,Other_types
+2021S002206,misc_type
 2021S002207,collision
 2021S002208,collision
 2021S002209,collision
@@ -105409,7 +105409,7 @@ num_incident,accident_type
 2021S002457,collision
 2021S002458,collision
 2021S002459,collision
-2021S002460,Other_types
+2021S002460,misc_type
 2021S002461,run_over
 2021S002462,collision
 2021S002463,collision
@@ -106137,7 +106137,7 @@ num_incident,accident_type
 2021S003187,frontal
 2021S003188,run_over
 2021S003189,collision
-2021S003190,Other_types
+2021S003190,misc_type
 2021S003191,collision
 2021S003192,run_over
 2021S003193,crash
@@ -106241,7 +106241,7 @@ num_incident,accident_type
 2021S003291,frontal
 2021S003292,frontal
 2021S003293,collision
-2021S003294,Other_types
+2021S003294,misc_type
 2021S003295,run_over
 2021S003296,fall--motorcycle
 2021S003297,frontal
@@ -111322,7 +111322,7 @@ num_incident,accident_type
 2022S000712,fall_inside_vehicle
 2022S000713,collision
 2022S000714,collision
-2022S000715,Other_types
+2022S000715,misc_type
 2022S000716,collision
 2022S000717,collision
 2022S000718,collision
@@ -113208,7 +113208,7 @@ num_incident,accident_type
 2022S002605,collision
 2022S002606,collision
 2022S002607,run_over
-2022S002608,Other_types
+2022S002608,misc_type
 2022S002609,misc_type
 2022S002610,fall--motorcycle
 2022S002611,collision
@@ -117124,7 +117124,7 @@ num_incident,accident_type
 2022S006533,collision
 2022S006534,crash
 2022S006535,run_over
-2022S006536,Other_types
+2022S006536,misc_type
 2022S006537,misc_type
 2022S006538,fall--motorcycle
 2022S006539,frontal
@@ -117274,7 +117274,7 @@ num_incident,accident_type
 2022S006683,crash
 2022S006684,collision
 2022S006685,fall_inside_vehicle
-2022S006686,Other_types
+2022S006686,misc_type
 2022S006687,collision
 2022S006688,crash
 2022S006689,run_over
@@ -119380,7 +119380,7 @@ num_incident,accident_type
 2023S000783,misc_type
 2023S000784,collision
 2023S000785,collision
-2023S000786,Other_types
+2023S000786,misc_type
 2023S000787,fall--motorcycle
 2023S000788,frontal
 2023S000789,collision
@@ -119833,7 +119833,7 @@ num_incident,accident_type
 2023S001238,crash
 2023S001239,collision
 2023S001240,fall--motorcycle
-2023S001241,Other_types
+2023S001241,misc_type
 2023S001242,collision
 2023S001243,collision
 2023S001244,crash
@@ -121082,7 +121082,7 @@ num_incident,accident_type
 2023S002492,collision
 2023S002493,fall--motorcycle
 2023S002494,crash
-2023S002495,Other_types
+2023S002495,misc_type
 2023S002496,collision
 2023S002498,crash
 2023S002499,frontal
@@ -121667,7 +121667,7 @@ num_incident,accident_type
 2023S003081,collision
 2023S003082,collision
 2023S003083,run_over
-2023S003084,Other_types
+2023S003084,misc_type
 2023S003085,crash
 2023S003086,run_over
 2023S003087,collision
@@ -124188,7 +124188,7 @@ num_incident,accident_type
 2023S005606,collision
 2023S005607,collision
 2023S005608,collision
-2023S005609,Other_types
+2023S005609,misc_type
 2023S005610,crash
 2023S005611,collision
 2023S005612,collision
