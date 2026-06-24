@@ -6,6 +6,7 @@ WEATHER_PATH = BASE_DIR / 'data'/'weather'
 # print(WEATHER_PATH)
 FILES_PATH = BASE_DIR / 'data'
 # print(FILES_PATH)
+SHAPEFILES_PATH = FILES_PATH / 'BCN_GrafVial_SHP'
 
 ##mappings
 
